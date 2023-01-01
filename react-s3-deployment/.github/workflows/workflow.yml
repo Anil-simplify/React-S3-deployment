@@ -15,7 +15,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
-      - run: cd react-s3-deployment
-      - run: npm install
+      - run: cd react-s3-deployment && npm install
       - run: npm run build
       - run: npm test
