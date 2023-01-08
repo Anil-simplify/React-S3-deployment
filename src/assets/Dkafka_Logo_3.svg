@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="134.99998mm"
+   height="59.700001mm"
+   viewBox="0 0 134.99998 59.700001"
+   version="1.1"
+   id="svg7682"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7679" />
+  <g
+     id="layer1"
+     transform="translate(-52.399999,-31.299998)">
+    <ellipse
+       style="opacity:0.544248;fill:#20b2aa;fill-opacity:1;stroke-width:0.265997"
+       id="path8166-6"
+       cx="78.348938"
+       cy="54.895153"
+       rx="16.73444"
+       ry="27.00268"
+       transform="matrix(0.9953477,0.09634814,0.20257745,0.97926624,0,0)" />
+    <ellipse
+       style="opacity:1;fill:#008b8b;fill-opacity:0.606218;stroke-width:0.265684"
+       id="path8166"
+       cx="3.1603944"
+       cy="105.98711"
+       rx="16.77516"
+       ry="26.873753"
+       transform="matrix(0.85127499,-0.52471983,0.74808125,0.66360714,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6977px;font-family:'Myanmar Text';-inkscape-font-specification:'Myanmar Text';opacity:1;fill:#2f4f4f;fill-opacity:1;stroke-width:0.33077"
+       x="111.70339"
+       y="76.694061"
+       id="text11716"
+       transform="scale(0.98383121,1.0164345)"><tspan
+         id="tspan11714"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Myanmar Text';-inkscape-font-specification:'Myanmar Text';fill:#2f4f4f;stroke-width:0.33077"
+         x="111.70339"
+         y="76.694061">Dkafka</tspan></text>
+  </g>
+</svg>

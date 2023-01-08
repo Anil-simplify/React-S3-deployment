@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscapeVersion="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodiDocname="Dkafka Logo.svg"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSvg="http://www.w3.org/2000/svg">
+  <sodipodiNamedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscapeShowpageshadow="2"
+     inkscapePageopacity="0.0"
+     inkscapePagecheckerboard="0"
+     inkscapeDeskcolor="#d1d1d1"
+     inkscapeDocument-units="mm"
+     showgrid="false"
+     inkscapeZoom="1.23"
+     inkscapeCx="558.94309"
+     inkscapeCy="366.66667"
+     inkscapeWindow-width="1366"
+     inkscapeWindow-height="705"
+     inkscapeWindow-x="-8"
+     inkscapeWindow-y="-8"
+     inkscapeWindow-maximized="1"
+     inkscapeCurrent-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="275.81912"
+       y="515.28999"
+       width="228.78021"
+       height="79.110912"
+       id="rect219" />
+  </defs>
+  <g
+     inkscapeLabel="Layer 1"
+     inkscapeGroupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#00b9b9,fillOpacity:1,strokeWidth:0.138855"
+       id="path111-9"
+       cx="113.28578"
+       cy="36.075489"
+       rx="9.4957314"
+       ry="11.858532"
+       transform="matrix(0.85239384,0.52290033,0.05891744,0.99826286,0,0)" />
+    <ellipse
+       style="fill:#008080;strokeWidth:0.139641"
+       id="path111"
+       cx="93.387787"
+       cy="67.928337"
+       rx="12.052027"
+       ry="9.4493141"
+       transform="matrix(0.94499808,0.32707585,0.10403914,0.99457319,0,0)" />
+    <text
+       xmlSpace="preserve"
+       transform="matrix(0.36909473,0,0,0.41302834,-25.448591,-104.18111)"
+       id="text217"
+       style="fontSize:32px;whiteSpace:pre;shapeInside:url(#rect219);display:inline;fill:#4d4d4d"><tspan
+         x="275.81836"
+         y="544.48363"
+         id="tspan23111">DKafka</tspan></text>
+  </g>
+</svg>
